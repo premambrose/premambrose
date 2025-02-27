@@ -65,6 +65,9 @@
 </p>
 
 
+
+
+
 - ⚡ Fun fact: **I love photography and colorgrading**
 - 🌱 I’m currently learning **Agentic workflows | Langchain | LLM finetuning**
 - 👯 I’m looking to collaborate on **Homelab selfhost projects**
