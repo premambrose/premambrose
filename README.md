@@ -14,12 +14,11 @@
 </p>
 
 ### Programming Skills
-- TinyML / QKeras / TFLite / Keras / Microcontroller C / OpenCV for image/video processing
-- C & C++ / Neural Network Quantization / Python / PyTorch / HTML / JavaScript / TensorFlow / OpenCV
+- TinyML | QKeras | TFLite | Keras | Microcontroller C | OpenCV for image|video processing
+- C & C++ | Neural Network Quantization | Python | PyTorch | HTML | JavaScript | TensorFlow | OpenCV
 
 ### Tools & Software
-- Git / Visual Studio Code / X-CUBE-AI / MPLAB / MATLAB & Simulink / Linux / STM32Cube Suite / EdgeAI
-
+- Git | Visual Studio Code | X-CUBE-AI | MPLAB | MATLAB & Simulink | Linux | STM32Cube Suite | EdgeAI
 
 
 <h3 align="left">Languages and Tools:</h3>
