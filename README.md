@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Prem Ambrose</h1>
-<h3 align="center">Welcome to my GitHub profile! Here you'll find a collection of my projects, experience, and skills.
+<h1 align="left">Hi 👋, I'm Prem Ambrose</h1>
+<h3 align="left">Welcome to my GitHub profile! Here you'll find a collection of my projects, experience, and skills.
 </h3>
 
 - 💬 Ask me about **Python, EdgeAI, AI in MCU/Sensors, C/C++**
