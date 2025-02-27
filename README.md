@@ -69,7 +69,3 @@
             src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40"
             height="40" /> </a>
 </p>
-
-<p><img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=sdgfbsd&show_icons=true&locale=en&layout=compact"
-        alt="sdgfbsd" /></p>
